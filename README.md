@@ -10,3 +10,4 @@
 - ⚡ Fun fact: <img src="https://img.shields.io/badge/-I'm%20a%20poker%20enthusiasts-red">
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
