@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**elvis0604/elvis0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=flat&logo=angular&logoColor=white"/>
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/>
 - 👯 I’m looking to collaborate on <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/>
@@ -11,4 +8,3 @@
 - 📫 How to reach me: [Linkedin] (https://www.linkedin.com/in/tuan-nguyen-8525051b2/ "My's Linkedin page")
 - 😄 Pronouns: <img src="https://img.shields.io/badge/Him-He-blue">
 - ⚡ Fun fact: <img src="https://img.shields.io/badge/-I'm%20a%20poker%20enthusiasts-red">
--->
