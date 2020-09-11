@@ -21,6 +21,8 @@ I'm Tuan. I love learning new technology and developing games.
 <br/>
 <br/>
 
+---
+
 - 🔭 I’m currently working on <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 - 👯 I’m looking to collaborate on <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
