@@ -30,7 +30,7 @@ I'm Tuan. I love learning new technology and developing games.
 - 💬 Ask me about <img src="https://img.shields.io/badge/-Anything-green"/>
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tuan-nguyen-8525051b2/ "My's Linkedin page")
 - 😄 Pronouns: <img src="https://img.shields.io/badge/Him-He-blue">
-- ⚡ Fun fact: <img src="https://img.shields.io/badge/-I'm%20a%20poker%20enthusiasts-red">
+- ⚡ Fun fact: <img src="https://img.shields.io/badge/-I'm%20a%20poker%20enthusiast-red">
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
