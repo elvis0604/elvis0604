@@ -32,5 +32,3 @@ I'm Tuan. I love learning new technology and developing games.
 - 😄 Pronouns: <img src="https://img.shields.io/badge/Him-He-blue">
 - ⚡ Fun fact: <img src="https://img.shields.io/badge/-I'm%20a%20poker%20enthusiast-red">
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
