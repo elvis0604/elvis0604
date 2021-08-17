@@ -39,7 +39,7 @@ I'm Tuan. I love learning new technology and developing games.
 
 ---
 
-## Here is a random joke and a meme if you are into that
+## A random joke and a meme if you are into that
 
 ![Jokes Card](https://readme-jokes.vercel.app/api) <img src='https://random-memer.herokuapp.com/' title="Meme">
 
