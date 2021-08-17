@@ -34,7 +34,13 @@ I'm Tuan. I love learning new technology and developing games.
 - 😄 Pronouns: <img src="https://img.shields.io/badge/Him-He-blue">
 - ⚡ Fun fact: <img src="https://img.shields.io/badge/-I'm%20a%20poker%20enthusiast-red">
 
+<br/>
+<br/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+---
+
+## Here is a random joke and a meme if you are into that
+
+![Jokes Card](https://readme-jokes.vercel.app/api) <img src='https://random-memer.herokuapp.com/' title="Meme">
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer&fontSize=60)
