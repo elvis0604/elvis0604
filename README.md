@@ -21,7 +21,6 @@ I'm Tuan. I love learning new technology and developing games.
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br/>
-![Jokes Card](https://readme-jokes.vercel.app/api)
 <br/>
 
 ---
@@ -34,5 +33,8 @@ I'm Tuan. I love learning new technology and developing games.
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tuan-nguyen-8525051b2/ "My's Linkedin page")
 - 😄 Pronouns: <img src="https://img.shields.io/badge/Him-He-blue">
 - ⚡ Fun fact: <img src="https://img.shields.io/badge/-I'm%20a%20poker%20enthusiast-red">
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer&fontSize=60)
