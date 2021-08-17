@@ -21,6 +21,7 @@ I'm Tuan. I love learning new technology and developing games.
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br/>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <br/>
 
 ---
